@@ -1,6 +1,6 @@
 div{
-    width: 100px;
-    height: 100px;
+    width: 102px;
+    height: 102px;
     background-color: red;
     animation-name: change-color;
     animation-duration: 8s;
