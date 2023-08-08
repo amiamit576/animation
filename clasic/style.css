@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    
+    @import url('https://fonts.googleapis.com/css2?family=Dai+Banna+SIL:wght@300&family=Oswald:wght@500;600;700&family=Poppins:wght@300&family=Roboto:wght@500&display=swap');
+   
+}
+body{
+    margin : 0;
+    background: linear-gradient(to left bottom,lightblue,lightpink,lightblue);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+     align-items: center; 
+     font-family: monospace;
+}
+.container{
+    
+  
+}
